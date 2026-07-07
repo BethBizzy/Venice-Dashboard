@@ -1,7 +1,7 @@
 import React, { useState, useMemo, useEffect } from 'react';
 import { Search, X } from 'lucide-react';
 
-const GOOGLE_BOOKS_API_KEY = 'AIzaSyBZHzYi1yZQs_KAP0SQBnmIo8H6C9fVxXQ';
+const GOOGLE_BOOKS_API_KEY = 'AIzaSyBmK2S6ZqPbT_-i2lFSPE86uMfbHGaora0';
 
 // Tooltip component for book summaries from Google Books API
 const BookTooltip = ({ book, author }) => {
